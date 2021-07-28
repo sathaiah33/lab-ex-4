@@ -8,7 +8,7 @@ import DISTANCECONVERTER.CONVERTER;
 import java.util.Scanner;
 /**
  *
- * @author rakesh
+ * @author sathaiah balaji
  */
 public class Q2 {
     public static void main(String[]args)
