@@ -7,7 +7,7 @@ package LAB4.subpackage;
 
 /**
  *
- * @author rakesh
+ * @author sathaiah balaji
  */
 public class subpack
 {
