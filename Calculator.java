@@ -7,7 +7,7 @@ package SUM;
 
 /**
  *
- * @author rakesh
+ * @author sathaiah balaji
  */
 
 public class Calculator 
