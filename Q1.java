@@ -9,7 +9,7 @@ import  sub.test;
 import LAB4.subpackage.subpack;
 /**
  *
- * @author rakesh
+ * @author sathaiah balaji
  */
 public class Q1
 {
