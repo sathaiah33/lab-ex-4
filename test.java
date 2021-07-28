@@ -7,7 +7,7 @@ package sub;
 
 /**
  *
- * @author rakesh
+ * @author sathaiah balaji
  */
 public class test 
 {
